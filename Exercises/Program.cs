@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Ex13();
+
         }
 
         public static void Ex1()
